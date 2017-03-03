@@ -1,0 +1,9 @@
+{
+  "name": "Q3-Project",
+  "version": "0.1.0",
+  "private": true,
+  "main": "main.js",
+  "devDependencies": {
+    "electron": "^1.6.1"
+  }
+}
